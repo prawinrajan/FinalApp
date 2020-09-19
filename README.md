@@ -1,5 +1,6 @@
-# FinalApp
+# Mech pp
 
+Content sharing application
 # Features
 
 1. Quick Splash Screen
